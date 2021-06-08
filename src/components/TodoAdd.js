@@ -35,7 +35,7 @@ export const TodoAdd = ({ handleAddTodo }) => {
                 <input
                     type="text"
                     name="description"
-                    placeholder="aprender"
+                    placeholder="new"
                     autoComplete="off"
                     className="form-control"
                     value={ description }
